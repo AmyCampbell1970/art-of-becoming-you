@@ -1,0 +1,14 @@
+BEFORE / AFTER GOING LIVE
+=========================
+
+[ ] Swap Stripe test keys for live keys in .env.local (and in Vercel environment variables)
+[ ] Replace test Stripe Price IDs in services/page.tsx with the live Price IDs
+[ ] Rotate the Stripe test keys that were shared in chat (Developers → API Keys → Roll key)
+[ ] Verify a domain in Resend and update the "from" address in src/app/api/contact/route.ts
+[ ] Update NEXT_PUBLIC_BASE_URL in Vercel environment variables to the real domain
+[ ] Set up GitHub repository and deploy to Vercel
+[ ] Purchase a domain and connect it to Vercel
+[ ] Add book covers and Amazon links to the Shop page
+[ ] Add real photos to replace any remaining placeholders
+[ ] Collect real client testimonials to replace or supplement the Yelp reviews
+[ ] Add credentials/certifications to the About page if Amy obtains any
