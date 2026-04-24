@@ -17,7 +17,7 @@ const packages = [
       "Gentle guidance through what feels heavy",
     ],
     highlight: false,
-    priceId: "price_1TPXxKICAOLAcmj7awWssL5Y",
+    priceId: "price_1TPXR8ICAOLAcmj7zEsvaDnf",
     isFor: [
       "Your mind feels full or scattered",
       "You feel stuck emotionally or mentally",
@@ -38,7 +38,7 @@ const packages = [
       "Real, honest reflection — no fluff",
     ],
     highlight: true,
-    priceId: "price_1TPXxYICAOLAcmj7sCsUFHQf",
+    priceId: "price_1TPXQqICAOLAcmj7M8fuHm5c",
     isFor: [
       "You keep repeating the same cycles",
       "You feel like you're in transition",
@@ -59,7 +59,7 @@ const packages = [
       "Support in making decisions with clarity",
     ],
     highlight: false,
-    priceId: "price_1TPXxqICAOLAcmj7WYz4fmOk",
+    priceId: "price_1TPXQQICAOLAcmj74qysEPJi",
     isFor: [
       "You're at a turning point",
       "You're trying to make a decision",
